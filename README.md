@@ -30,7 +30,7 @@
 
 
 ## 📊 Activity Graph
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentarotaro&theme=tokyo-night)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalll7&theme=tokyo-night)
 
 
 ## 📫 Contact
