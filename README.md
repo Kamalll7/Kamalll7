@@ -18,6 +18,9 @@
 
 ## 🧪 Projects
 
+- **CTF write up and discussion**
+ ⎕ https://discord.gg/seGU2bpY
+
 - **Data Royale — Mushroom Classification**  
   📁 https://github.com/kentarotaro/data-royale-mushroom-classification.git
 
