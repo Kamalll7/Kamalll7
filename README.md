@@ -18,7 +18,7 @@
 
 ## 🧪 Projects
 
-- **CTF write up and discussion**
+- **CTF write up and discussion**  
  ⎕ https://discord.gg/seGU2bpY
 
 - **Data Royale — Mushroom Classification**  
