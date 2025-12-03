@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Kamal
 
-<!--
-**Kamalll7/Kamalll7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me
+- Mahasiswa S1 Ilmu Komputer Universitas Gadjah Mada
+- tertarik dengan: C++, CP, AI, IoT, Cybersecurity
+- sedang belajar: CTF
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A3C6E?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-kappa-snowy.vercel.app/api?username=kamalll7&show_icons=true)
+
+
+## 🧪 Projects
+
+- **Data Royale — Mushroom Classification**  
+  📁 https://github.com/kentarotaro/data-royale-mushroom-classification.git
+
+- **Ludo Game in C++**  
+  📁 https://github.com/kentarotaro/kubik-ludo-cpp.git
+
+
+## 📊 Activity Graph
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentarotaro&theme=tokyo-night)
+
+
+## 📫 Contact
+- Ucokkamal@mail.ugm.ac.id
+
